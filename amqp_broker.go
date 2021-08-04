@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/streadway/amqp"
+	"github.com/peake100/rogerRabbit-go/pkg/amqp"
 )
 
 // AMQPExchange stores AMQP Exchange configuration

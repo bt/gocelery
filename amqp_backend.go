@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/streadway/amqp"
+	"github.com/peake100/rogerRabbit-go/pkg/amqp"
 )
 
 // AMQPCeleryBackend CeleryBackend for AMQP

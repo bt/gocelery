@@ -7,7 +7,7 @@ package gocelery
 import (
 	"log"
 
-	"github.com/streadway/amqp"
+	"github.com/peake100/rogerRabbit-go/pkg/amqp"
 )
 
 // deliveryAck acknowledges delivery message with retries on error
